@@ -11,16 +11,10 @@ Implements various machine learning algorithms, such as logistic regression, ran
 Evaluates model performance using metrics like accuracy, precision, recall, and F1-score.
 Provides interactive visualizations to gain insights into the data and model predictions.
 Offers a user-friendly interface for inputting applicant details and obtaining real-time loan approval predictions.
+
 Technologies Used:
 
 Python for data preprocessing, model development, and visualization.
 Libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib for data manipulation, machine learning, and visualization.
-Streamlit for creating a web-based user interface.
-Contributions:
-Contributions and feedback from the community are welcome to improve the model's performance, enhance visualizations, and refine the user interface. Please feel free to open issues, submit pull requests, and participate in discussions.
+Flask for creating a web-based user interface.
 
-License:
-This project is licensed under the MIT License, allowing free usage, modification, and distribution.
-
-Note:
-The model's predictions are for demonstrative purposes only and should not be used for actual loan approval decisions.
